@@ -1,5 +1,4 @@
 #Budget Manager
+Manage your budget
 
-
-
-manage your budgets
+Clean and Clear Budget manager made with html css and pure JavaScript
